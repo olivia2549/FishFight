@@ -1,0 +1,17 @@
+Royal Gramma, Attack, Colorful, 2, 5, 4
+Fire Fish, Attack, Not actually made of fire, 3, 4, 4
+Damsel Fish, Attack, Extremely territorial, 4, 6, 3
+Trigger Fish, Attack, Not afraid to pull the trigger, 5, 5, 3
+Narwhal, Attack, Has a big horn on its head, 7, 9, 2
+Giant Squid, Attack, One of the largest living organisms, 9, 7, 2
+Hammerhead Shark, Attack, Only attacks if you roll an even number, 20, 7, 2
+Prawn, Defense, Not a shrimp, -1, 7, 4
+Shrimp, Defense, Delicious, -1, 9, 4
+Manatee, Defense, Also known as sea cows, -1, 15, 3
+Butterfly Fish, Defense, Must be hit 2 times to die, -1, 5, 2
+Blue Whale, Defense, Largest animal ever, -1, 25, 2
+Angel Fish, Support, Give all friendly fish +3 Defense, -1, 5, 4
+Clown Fish, Support, Give all friendly fish +3 Attack if they can attack, -1, 5, 4
+Sea Turtle, Support, Every player may draw 1 card, -1, 8, 3
+Whale Shark, Support, Play the top 3 fish from the friendly fish deck, -1, 12, 2
+Manta Ray, Support, Every player may discard any number of cards and draw that many cards, -1, 6, 2

@@ -1,0 +1,12 @@
+Biting Bot, Good at biting, 5, 12, 25
+Big Bot, You must attack this first, -1, 20, 15
+Burning Bot, Dies after attacking, 11, 15, 5
+Brilliant Bot, Attacks your lowest defense fish, 3, 12, 5
+Bacteria Bot, Each player must discard a card, 3, 8, 5
+Bodacious Bot, Attacks before friendly fish every round, 7, 10, 5
+Brittle Bot, Shatters easily, 8, 3, 15
+Boisterous Bot, Attacks twice per round, 3, 14, 5
+Bashful Bot, Too shy to attack, -1, 10, 5
+Boss Bot, Watch out for this one, 10, 20, 5
+Baffling Bot, Attacks a random friendly fish, 4, 14, 5
+Bonkers Bot, Also attacks a robot fish, 2, 18, 5
